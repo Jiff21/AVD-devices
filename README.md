@@ -17,14 +17,13 @@ If importing device this should work automatically. If not there seems to be a b
 1. Open Android Studio
 
 2. On the Welcome to Android Studio screen open the Configure Menu and select AVD Manager
-<img src="/screenshots/AVD_Manager.png" height="300">
-
+![Configure Menu and select AVD Manager](/screenshots/AVD_Manager.png)
 
 3. On the Welcome to Android Studio screen open the Configure Menu and select AVD Manager
-<img src="/screenshots/CreateVirtualDevice.png" height="300">
+![Create Virtual Device Button](/screenshots/CreateVirtualDevice.png?raw=true)
 
 4. On the Welcome to Android Studio screen open the Configure Menu and select AVD Manager
-<img src="/screenshots/ImportHardwareProfiles.png" height="300">
+[Import Hardware Profile](/screenshots/ImportHardwareProfiles.png?raw=true)
 
 5. Select any of the `.xml` files from this project. If the device has a skin you will need the copy skin step above.
 
