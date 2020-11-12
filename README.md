@@ -33,21 +33,21 @@ If importing device this should work automatically. If not there seems to be a b
 #### Pixel / Nexus / Google
 
 * Pixel 5 - Not included with Android Studio at the time
-  * 6.0 inches, 87.6 cm2 (~85.9% screen-to-body ratio)
-  * 1080 x 2340 pixels, 19.5:9 ratio (~432 ppi density)
-  * 8 GB
+    * 6.0 inches, 87.6 cm2 (~85.9% screen-to-body ratio)
+    * 1080 x 2340 pixels, 19.5:9 ratio (~432 ppi density)
+    * 8 GB
 * Pixel 4a 5G - Not included with Android Studio at the time
-  * 6.2 inches, 95.7 cm2 (~84.1% screen-to-body ratio)
-  * 1080 x 2340 pixels, 19.5:9 ratio (~413 ppi density)
-  * 6 GB
+    * 6.2 inches, 95.7 cm2 (~84.1% screen-to-body ratio)
+    * 1080 x 2340 pixels, 19.5:9 ratio (~413 ppi density)
+    * 6 GB
 * Pixel 4XL - Not included with Android Studio at the time
-  * 6.3 inches, 98.0 cm2 (~81.3% screen-to-body ratio)
-  * 1440 x 3040 pixels, 19:9 ratio (~537 ppi density)
-  * 6 GB
+    * 6.3 inches, 98.0 cm2 (~81.3% screen-to-body ratio)
+    * 1440 x 3040 pixels, 19:9 ratio (~537 ppi density)
+    * 6 GB
 * Pixel 4 - Not included with Android Studio at the time
-  * 5.7 inches, 80.7 cm2 (~79.8% screen-to-body ratio)
-  * 1080 x 2280 pixels, 19:9 ratio (~444 ppi density)
-  * 6 GB
+    * 5.7 inches, 80.7 cm2 (~79.8% screen-to-body ratio)
+    * 1080 x 2280 pixels, 19:9 ratio (~444 ppi density)
+    * 6 GB
 
 * Pixel 3 - included with Android Studio
 * Pixel 3XL - included with Android Studio
@@ -62,111 +62,111 @@ If importing device this should work automatically. If not there seems to be a b
 
 #### Samsung
 * Galaxy A51
-  * 6.5 inches (~87.4% screen-to-body ratio)
-  * 1080 x 2400 pixels (~405 ppi density)
-  * 4 GB RAM
-  * Galaxy A51 Skin
+    * 6.5 inches (~87.4% screen-to-body ratio)
+    * 1080 x 2400 pixels (~405 ppi density)
+    * 4 GB RAM
+    * Galaxy A51 Skin
 * Galaxy A50
-  * 6.4 inches (~87.4% screen-to-body ratio)
-  * 1080 x 2340 pixels (~403 ppi density)
-  * 4 GB RAM
-  * Using Galaxy A51 Skin
+    * 6.4 inches (~87.4% screen-to-body ratio)
+    * 1080 x 2340 pixels (~403 ppi density)
+    * 4 GB RAM
+    * Using Galaxy A51 Skin
 * Galaxy S20 5G
-  * 6.7 inches, 108.4 cm2 (~89.2% screen-to-body ratio)
-  * 1080 x 2400 pixels, 20:9 ratio (~393 ppi density)
-  * 8 GB RAM
-  * Galaxy S20 Skin
+    * 6.7 inches, 108.4 cm2 (~89.2% screen-to-body ratio)
+    * 1080 x 2400 pixels, 20:9 ratio (~393 ppi density)
+    * 8 GB RAM
+    * Galaxy S20 Skin
 * Galaxy S20 Ultra
-  * 6.9 inches, 114.0 cm2 (~89.9% screen-to-body ratio)
-  * 1440 x 3200 pixels, 20:9 ratio (~511 ppi density)
-  * 12 GB RAM
-  * Galaxy S20 Ultra Skin
+    * 6.9 inches, 114.0 cm2 (~89.9% screen-to-body ratio)
+    * 1440 x 3200 pixels, 20:9 ratio (~511 ppi density)
+    * 12 GB RAM
+    * Galaxy S20 Ultra Skin
 * Galaxy S7 Plus
-  * 12.4 inches, 446.1 cm2 (~84.6% screen-to-body ratio)
-  * 1752 x 2800 pixels, 16:10 ratio (~266 ppi density)
-  * 6 GB RAM
-  * No Skin at the time, check back
+    * 12.4 inches, 446.1 cm2 (~84.6% screen-to-body ratio)
+    * 1752 x 2800 pixels, 16:10 ratio (~266 ppi density)
+    * 6 GB RAM
+    * No Skin at the time, check back
 * Galaxy S10 Plus
-  * 6.4 inches, 103.8 cm2 (~88.9% screen-to-body ratio)
-  * 1440 x 3040 pixels, 19:9 ratio (~522 ppi density)
-  * 8 GB RAM
-  * Galaxy S10 Skin
+    * 6.4 inches, 103.8 cm2 (~88.9% screen-to-body ratio)
+    * 1440 x 3040 pixels, 19:9 ratio (~522 ppi density)
+    * 8 GB RAM
+    * Galaxy S10 Skin
 * Galaxy S10
-  * 6.1 inches (~88.3% screen-to-body ratio)
-  * 1440 x 3040 pixels (~550 ppi density)
-  * 8 GB RAM
-  * Galaxy S10 Skin
+    * 6.1 inches (~88.3% screen-to-body ratio)
+    * 1440 x 3040 pixels (~550 ppi density)
+    * 8 GB RAM
+    * Galaxy S10 Skin
 * Galaxy S9+
-  * 6.2 inches (~84.2% screen-to-body ratio
-  * 1440 x 2960 pixels (~529 ppi density)
-  * 6 GB RAM
-  * Galaxy 9+ Skin
+    * 6.2 inches (~84.2% screen-to-body ratio
+    * 1440 x 2960 pixels (~529 ppi density)
+    * 6 GB RAM
+    * Galaxy 9+ Skin
 * Galaxy S9
-  * 6.2 inches (~84.2% screen-to-body ratio
-  * 1440 x 2960 pixels (~529 ppi density)
-  * 4 GB RAM
-  * Galaxy 9 Skin
+    * 6.2 inches (~84.2% screen-to-body ratio
+    * 1440 x 2960 pixels (~529 ppi density)
+    * 4 GB RAM
+    * Galaxy 9 Skin
 * Galaxy S8+
-  * 6.2 inches (~84.0% screen-to-body ratio)
-  * 1440 x 2960 pixels (~529 ppi density)
-  * 4 GB RAM
-  * Galaxy 8+ Skin
+    * 6.2 inches (~84.0% screen-to-body ratio)
+    * 1440 x 2960 pixels (~529 ppi density)
+    * 4 GB RAM
+    * Galaxy 8+ Skin
 * Galaxy S8
-  * 5.8 inches (~83.6% screen-to-body ratio)
-  * 1440 x 2960 pixels (~570 ppi density)
-  * 4 GB RAM
-  * Galaxy 8 Skin
+    * 5.8 inches (~83.6% screen-to-body ratio)
+    * 1440 x 2960 pixels (~570 ppi density)
+    * 4 GB RAM
+    * Galaxy 8 Skin
 * Galaxy S7
-  * 5.1 inches (~72.10% screen-to-body ratio)
-  * 1440 x 2560 pixels (~577 ppi density)
-  * 4 GB RAM
-  * Galaxy 7 Skin
-  * Physical Buttons
+    * 5.1 inches (~72.10% screen-to-body ratio)
+    * 1440 x 2560 pixels (~577 ppi density)
+    * 4 GB RAM
+    * Galaxy 7 Skin
+    * Physical Buttons
 * Galaxy S7e
-  * 5.5 inches (~76.1% screen-to-body ratio)
-  * 1440 x 2560 pixels (~534 ppi density)
-  * 4 GB RAM
-  * Galaxy 7 Edge Skin
-  * Physical Buttons
+    * 5.5 inches (~76.1% screen-to-body ratio)
+    * 1440 x 2560 pixels (~534 ppi density)
+    * 4 GB RAM
+    * Galaxy 7 Edge Skin
+    * Physical Buttons
 
 
 #### Huawei
 
 * P30 Pro
-  * 6.47 inches, 102.8 cm2 (~88.6% screen-to-body ratio)
-  * 1080 x 2340 pixels, 19.5:9 ratio (~398 ppi density)
-  * 6 GB RAM
+    * 6.47 inches, 102.8 cm2 (~88.6% screen-to-body ratio)
+    * 1080 x 2340 pixels, 19.5:9 ratio (~398 ppi density)
+    * 6 GB RAM
 * P30 Lite
-  * 6.15 inches (~84.2% screen-to-body ratio)
-  * 1080 x 2312 pixels (~415 ppi density)
-  * 4 GB RAM
+    * 6.15 inches (~84.2% screen-to-body ratio)
+    * 1080 x 2312 pixels (~415 ppi density)
+    * 4 GB RAM
 * P20
-  * 5.8 inches, 84.9 cm2 (~80.4% screen-to-body ratio)
-  * 1080 x 2240 pixels, 18.7:9 ratio (~429 ppi density)
-  * 4 GB RAM
+    * 5.8 inches, 84.9 cm2 (~80.4% screen-to-body ratio)
+    * 1080 x 2240 pixels, 18.7:9 ratio (~429 ppi density)
+    * 4 GB RAM
 * P20 Lite
-  * 5.84 inches, 85.1 cm2 (~80.5% screen-to-body ratio)
-  * 1080 x 2280 pixels, 19:9 ratio (~432 ppi density)
-  * 4 GB RAM
+    * 5.84 inches, 85.1 cm2 (~80.5% screen-to-body ratio)
+    * 1080 x 2280 pixels, 19:9 ratio (~432 ppi density)
+    * 4 GB RAM
 * P20 Pro
-  * 6.1 inches, 93.9 cm2 (~82.0% screen-to-body ratio)
-  * 1080 x 2240 pixels, 18.7:9 ratio (~408 ppi density)
-  * 6 GB RAM
+    * 6.1 inches, 93.9 cm2 (~82.0% screen-to-body ratio)
+    * 1080 x 2240 pixels, 18.7:9 ratio (~408 ppi density)
+    * 6 GB RAM
 * P10
-  * 5.1 inches, 71.7 cm2 (~71.2% screen-to-body ratio)
-  * 1080 x 1920 pixels, 16:9 ratio (~432 ppi density)
-  * 4 GB RAM
+    * 5.1 inches, 71.7 cm2 (~71.2% screen-to-body ratio)
+    * 1080 x 1920 pixels, 16:9 ratio (~432 ppi density)
+    * 4 GB RAM
 * P10 Lite
-  * 5.2 inches, 74.5 cm2 (~70.7% screen-to-body ratio)
-  * 1080 x 1920 pixels, 16:9 ratio (~424 ppi density)
-  * 3 GB
+    * 5.2 inches, 74.5 cm2 (~70.7% screen-to-body ratio)
+    * 1080 x 1920 pixels, 16:9 ratio (~424 ppi density)
+    * 3 GB
 
 #### Motorola
 
 * Moto G (2013)
-  * 4.5 inches, 55.8 cm2 (~65.2% screen-to-body ratio)
-  * 720 x 1280 pixels, 16:9 ratio (~326 ppi density)
-  * 1 GB RAM
+    * 4.5 inches, 55.8 cm2 (~65.2% screen-to-body ratio)
+    * 720 x 1280 pixels, 16:9 ratio (~326 ppi density)
+    * 1 GB RAM
 
 ##### Caveats
 
