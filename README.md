@@ -64,9 +64,24 @@ If importing device this should work automatically. If not there seems to be a b
   * 1080 x 2340 pixels (~403 ppi density)
   * 4 GB RAM
   * Using Galaxy A51 Skin
-* Galaxy S10
-  * 6.1 inches (~88.3% screen-to-body ratio)
-  * 1440 x 3040 pixels (~550 ppi density)
+* Galaxy S20 5G
+  * 6.7 inches, 108.4 cm2 (~89.2% screen-to-body ratio)
+  * 1080 x 2400 pixels, 20:9 ratio (~393 ppi density)
+  * 8 GB RAM
+  * Galaxy S20 Skin
+* Galaxy S20 Ultra
+  * 6.9 inches, 114.0 cm2 (~89.9% screen-to-body ratio)
+  * 1440 x 3200 pixels, 20:9 ratio (~511 ppi density)
+  * 12 GB RAM
+  * Galaxy S20 Ultra Skin
+* Galaxy S7 Plus
+  * 12.4 inches, 446.1 cm2 (~84.6% screen-to-body ratio)
+  * 1752 x 2800 pixels, 16:10 ratio (~266 ppi density)
+  * 6 GB RAM
+  * No Skin at the time, check back
+* Galaxy S10 Plus
+  * 6.4 inches, 103.8 cm2 (~88.9% screen-to-body ratio)
+  * 1440 x 3040 pixels, 19:9 ratio (~522 ppi density)
   * 8 GB RAM
   * Galaxy S10 Skin
 * Galaxy S10
