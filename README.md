@@ -28,6 +28,8 @@ If importing device this should work automatically. If not there seems to be a b
 
 5. Select any of the `.xml` files from this project. If the device has a skin you will need the copy skin step above.
 
+### XML File List and what is customized
+
 #### Pixel / Nexus / Google
 
 * Pixel 5 - Not included with Android Studio at the time
