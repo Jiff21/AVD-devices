@@ -14,17 +14,55 @@ If importing device this should work automatically. If not there seems to be a b
 
 ### Import Hardware Profile
 
+1. Open Android Studio
+2. On the Welcome to Android Studio screen open the Configure Menu and select AVD Manager
+![Configure Menu and select AVD Manager](/screenshots/AVD_Manager.png?raw=true "select AVD Manager")
+3. On the Welcome to Android Studio screen open the Configure Menu and select AVD Manager
+![Create Virtual Device Button](/screenshots/CreateVirtualDevice.png?raw=true)
+4. On the Welcome to Android Studio screen open the Configure Menu and select AVD Manager
+![Import Hardware Profile](/screenshots/ImportHardwareProfiles.png?raw=true)
+5. Select any of the `.xml` files from this project. If the device has a skin you will need the copy skin step above.
+
+#### Pixel / Nexus / Google
+
+* Pixel 5 - Not included with Android Studio at the time
+  * 6.0 inches, 87.6 cm2 (~85.9% screen-to-body ratio)
+  * 1080 x 2340 pixels, 19.5:9 ratio (~432 ppi density)
+  * 8 GB
+* Pixel 4a 5G - Not included with Android Studio at the time
+  * 6.2 inches, 95.7 cm2 (~84.1% screen-to-body ratio)
+  * 1080 x 2340 pixels, 19.5:9 ratio (~413 ppi density)
+  * 6 GB
+* Pixel 4XL - Not included with Android Studio at the time
+  * 6.3 inches, 98.0 cm2 (~81.3% screen-to-body ratio)
+  * 1440 x 3040 pixels, 19:9 ratio (~537 ppi density)
+  * 6 GB
+* Pixel 4 - Not included with Android Studio at the time
+  * 5.7 inches, 80.7 cm2 (~79.8% screen-to-body ratio)
+  * 1080 x 2280 pixels, 19:9 ratio (~444 ppi density)
+  * 6 GB
+
+* Pixel 3 - included with Android Studio
+* Pixel 3XL - included with Android Studio
+* Pixel 2 - included with Android Studio
+* Pixel 2XL - included with Android Studio
+* Pixel XL - included with Android Studio
+* Pixel - included with Android Studio
+* Nexus 6P (LG) - included with Android Studio
+* Nexus 6 (LG) - included with Android Studio
+* Nexus 5 (LG) - included with Android Studio
+
 
 #### Samsung
 * Galaxy A51
   * 6.5 inches (~87.4% screen-to-body ratio)
   * 1080 x 2400 pixels (~405 ppi density)
-  * 4GB RAM
+  * 4 GB RAM
   * Galaxy A51 Skin
 * Galaxy A50
   * 6.4 inches (~87.4% screen-to-body ratio)
   * 1080 x 2340 pixels (~403 ppi density)
-  * 4GB RAM
+  * 4 GB RAM
   * Using Galaxy A51 Skin
 * Galaxy S10
   * 6.1 inches (~88.3% screen-to-body ratio)
@@ -39,12 +77,12 @@ If importing device this should work automatically. If not there seems to be a b
 * Galaxy S9+
   * 6.2 inches (~84.2% screen-to-body ratio
   * 1440 x 2960 pixels (~529 ppi density)
-  * 6GB RAM
+  * 6 GB RAM
   * Galaxy 9+ Skin
 * Galaxy S9
   * 6.2 inches (~84.2% screen-to-body ratio
   * 1440 x 2960 pixels (~529 ppi density)
-  * 4GB RAM
+  * 4 GB RAM
   * Galaxy 9 Skin
 * Galaxy S8+
   * 6.2 inches (~84.0% screen-to-body ratio)
@@ -54,52 +92,59 @@ If importing device this should work automatically. If not there seems to be a b
 * Galaxy S8
   * 5.8 inches (~83.6% screen-to-body ratio)
   * 1440 x 2960 pixels (~570 ppi density)
-  * 4GB RAM
+  * 4 GB RAM
   * Galaxy 8 Skin
 * Galaxy S7
   * 5.1 inches (~72.10% screen-to-body ratio)
   * 1440 x 2560 pixels (~577 ppi density)
-  * 4GB RAM
+  * 4 GB RAM
   * Galaxy 7 Skin
   * Physical Buttons
 * Galaxy S7e
   * 5.5 inches (~76.1% screen-to-body ratio)
   * 1440 x 2560 pixels (~534 ppi density)
-  * 4GB RAM
+  * 4 GB RAM
   * Galaxy 7 Edge Skin
   * Physical Buttons
 
 
 #### Huawei
-Huawei P30 Pro
+
 * P30 Pro
   * 6.47 inches, 102.8 cm2 (~88.6% screen-to-body ratio)
   * 1080 x 2340 pixels, 19.5:9 ratio (~398 ppi density)
-  * 6GB RAM
+  * 6 GB RAM
 * P30 Lite
   * 6.15 inches (~84.2% screen-to-body ratio)
   * 1080 x 2312 pixels (~415 ppi density)
-  * 4GB RAM
+  * 4 GB RAM
 * P20
   * 5.8 inches, 84.9 cm2 (~80.4% screen-to-body ratio)
   * 1080 x 2240 pixels, 18.7:9 ratio (~429 ppi density)
-  * 4GB RAM
+  * 4 GB RAM
 * P20 Lite
   * 5.84 inches, 85.1 cm2 (~80.5% screen-to-body ratio)
   * 1080 x 2280 pixels, 19:9 ratio (~432 ppi density)
-  * 4GB RAM
+  * 4 GB RAM
 * P20 Pro
   * 6.1 inches, 93.9 cm2 (~82.0% screen-to-body ratio)
   * 1080 x 2240 pixels, 18.7:9 ratio (~408 ppi density)
-  * 6GB RAM
+  * 6 GB RAM
 * P10
   * 5.1 inches, 71.7 cm2 (~71.2% screen-to-body ratio)
   * 1080 x 1920 pixels, 16:9 ratio (~432 ppi density)
-  * 4GB RAM
+  * 4 GB RAM
 * P10 Lite
   * 5.2 inches, 74.5 cm2 (~70.7% screen-to-body ratio)
   * 1080 x 1920 pixels, 16:9 ratio (~424 ppi density)
   * 3 GB
+
+#### Motorola
+
+* Moto G (2013)
+  * 4.5 inches, 55.8 cm2 (~65.2% screen-to-body ratio)
+  * 720 x 1280 pixels, 16:9 ratio (~326 ppi density)
+  * 1 GB RAM
 
 ##### Caveats
 
