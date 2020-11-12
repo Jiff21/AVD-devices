@@ -4,7 +4,7 @@
 
 ### Skins
 
-Copy Skins to Default Skin folder.
+Copy Skins to Default Skin folder. If this is in the public branch you need to download [Galaxy Skins](https://developer.samsung.com/galaxy-emulator-skin/guide.html) and move the unzipped folders to the Skins folder for all available samsung devices. Then Run the following command.
 
 ```bash
 cp -R Skins/ $HOME/Library/Android/sdk/skins
